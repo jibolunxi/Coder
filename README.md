@@ -11,5 +11,5 @@ SpringBoot
 4. git add .  && git commit -am 'init' && git push
 
 ### 3. add new branch
-1. git checkout -b 'new-branch'
-2. git push --set-upstream origin 'new-branch'
+1. git checkout -b new-branch
+2. git push --set-upstream origin new-branch
